@@ -165,7 +165,8 @@
 <wire x1="70" y1="-121.3" x2="19.6" y2="-121.3" width="0.1" layer="20"/>
 <wire x1="19.6" y1="-121.3" x2="19.6" y2="-107.7" width="0.1" layer="20"/>
 <wire x1="67" y1="0" x2="0" y2="0" width="0.1" layer="20"/>
-<wire x1="0" y1="0" x2="0" y2="-99.3" width="0.1" layer="20"/>
+<wire x1="0" y1="0" x2="0" y2="-15.2" width="0.1" layer="20"/>
+<wire x1="0" y1="-43.3" x2="0" y2="-99.3" width="0.1" layer="20"/>
 <wire x1="0" y1="-99.3" x2="11" y2="-99.3" width="0.1" layer="20"/>
 <wire x1="19.6" y1="-107.7" x2="11" y2="-99.3" width="0.1" layer="20" curve="91.363928"/>
 <wire x1="70" y1="-2.5" x2="70" y2="-69" width="0.1" layer="20"/>
@@ -187,6 +188,13 @@
 <hole x="47.8" y="-95.7" drill="2.2"/>
 <hole x="67.7" y="-93.7" drill="2.2"/>
 <hole x="13" y="-85.8" drill="3.5"/>
+<wire x1="0" y1="-15.2" x2="1.5" y2="-15.2" width="0.1" layer="20"/>
+<wire x1="0" y1="-43.3" x2="1.5" y2="-43.3" width="0.1" layer="20"/>
+<wire x1="1.5" y1="-15.2" x2="1.5" y2="-22.6" width="0.1" layer="20"/>
+<wire x1="1.5" y1="-43.3" x2="1.5" y2="-33.1" width="0.1" layer="20"/>
+<wire x1="1.5" y1="-22.6" x2="3.7" y2="-22.6" width="0.1" layer="20"/>
+<wire x1="1.5" y1="-33.1" x2="3.7" y2="-33.1" width="0.1" layer="20"/>
+<wire x1="3.7" y1="-33.1" x2="3.7" y2="-22.6" width="0.1" layer="20"/>
 </plain>
 <libraries>
 <library name="pinhead" urn="urn:adsk.eagle:library:325">
